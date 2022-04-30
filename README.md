@@ -13,4 +13,4 @@ Update the Python file:
 * Test the PyChain Ledger by Storing Records.
 
 
-![alt=""](Capture.png)
+![alt=""](https://github.com/Springe09/PyChain-Ledger/blob/main/Capture.PNG)
