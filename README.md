@@ -8,7 +8,9 @@ Update the Python file:
 
 * Modify the existing `Block` data class to store `Record` data.
 
-* Add Relevant User Inputs to the Streamlit interface.
+* Add Relevant User Inputs to the **Streamlit** interface.
+
+  **Streamlit is an open-source Python library that makes it easy to create and share beautiful, custom web apps for machine learning and data science.**
 
 * Test the PyChain Ledger by Storing Records.
 
