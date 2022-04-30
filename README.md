@@ -14,3 +14,5 @@ Update the Python file:
 
 
 ![alt=""](https://github.com/Springe09/PyChain-Ledger/blob/main/Capture.PNG)
+
+![alt=""](https://github.com/Springe09/PyChain-Ledger/blob/main/PyChain%20Ledger_2.PNG)
